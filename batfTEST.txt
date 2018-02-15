@@ -1,0 +1,5 @@
+pwd
+ls -l
+mkdir cckdir ; ls
+quit
+
